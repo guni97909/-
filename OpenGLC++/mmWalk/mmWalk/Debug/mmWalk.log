@@ -1,0 +1,29 @@
+﻿  WalkThru.c
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(38,48): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(255,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(256,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(257,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(280,14): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(280,19): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(280,24): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(328,14): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(328,19): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(328,24): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(378,14): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(378,19): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(378,24): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(408,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(409,8): warning C4101: 'norm' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(879,51): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(895,51): warning C4305: '함수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(917,33): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(919,33): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(882,1): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(1015,60): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(1110,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(1115,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(1407,104): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(1409,105): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(1442,100): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\mmWalk\mmWalk\WalkThru.c(1444,100): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mmWalk.vcxproj -> C:\Users\user\source\repos\mmWalk\Debug\mmWalk.exe

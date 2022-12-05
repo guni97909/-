@@ -1,0 +1,11 @@
+﻿  SModel.c
+C:\Users\user\source\repos\MyModel\MyModel\SModel.c(13,46): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\user\source\repos\MyModel\MyModel\SModel.c(93,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\MyModel\MyModel\SModel.c(94,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\MyModel\MyModel\SModel.c(95,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\MyModel\MyModel\SModel.c(251,59): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\MyModel\MyModel\SModel.c(412,100): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\MyModel\MyModel\SModel.c(414,100): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\MyModel\MyModel\SModel.c(480,102): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\MyModel\MyModel\SModel.c(482,104): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyModel.vcxproj -> C:\Users\user\source\repos\MyModel\Debug\MyModel.exe
